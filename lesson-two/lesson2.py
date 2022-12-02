@@ -1,4 +1,4 @@
-#nov 30 lesson 2
+# nov 30 lesson 2
 x = 5
 y = 5.5
 z = "Hi I exist apparently"
@@ -25,13 +25,12 @@ for i in range(len(list)):
     print(type(list[i]))
 
 
-
 ex = list.pop()
 ty = tup[1]
 
 print(ty)
-#while a:
- #   a = ask()
+# while a:
+#   a = ask()
 
-##https://www.w3schools.com/python/python_lists_comprehension.asp
-##list comprehension doc for next lesson
+# https://www.w3schools.com/python/python_lists_comprehension.asp
+# list comprehension doc for next lesson

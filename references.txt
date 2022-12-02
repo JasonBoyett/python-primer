@@ -1,0 +1,46 @@
+  Esential Software:
+    -Anaconda(used for setting up virtual environments): https://www.anaconda.com
+    -Git(version controll):https://git-scm.com
+    -An IDE (Options listed below)
+
+recommended IDEs for python developement
+  -vscode (recommended):https://code.visualstudio.com
+    NOTE: vscode stands for visual studio code. It is not the same as Visual Studio
+    NOTE:vscode is used to write many different languages and requires a small amount
+    of configuration to get working for python development but there are a plethora of
+    tutorials available for vs code so setup won't be too difficult
+    Reccomended plugins for vscode:
+      -bracket pair colorizer(highlights bracket pairs)
+      -python(allows for error checking)
+      -Code Spell(spell checker)
+      -CodeSnap(great for sending code snipets)
+      -Live Share(allows for a google docs like coding environment)
+      -Tabnine(AI code completion)
+      -Vim(emulates the vim editor in vscode. Not for the faint of heart)
+      -GitHub(allows the user to access GitHub directly from the IDE)
+      -GitLense(shows information about git status)
+      -A sexy color theme(because colors)
+  -pyCharm:https://www.jetbrains.com/pycharm/
+    NOTE: pycharm is a paid product but can be gotten for free through a student licnese    follow this link to aquire said license 
+    https://www.jetbrains.com/community/education/#students
+  -Sublime Text: https://www.sublimetext.com
+
+  NOTE: I personally use Neo VIM as my primary editor but do not reccomend it
+  for beginners
+  it is fantastic for advanced users but without a solid understanding of Git, Unix,
+  and the terminal it can be almost impossible to set up and use.
+  that being said my config is available at: https://github.com/JasonBoyett/nvim-config
+  and a ready made config is available here: https://www.lunarvim.org 
+
+  Reccomended YouTube channels for python tutorials
+    -Tech With Tim: https://www.youtube.com/@TechWithTim 
+    -ArjanCodes: https://www.youtube.com/@ArjanCodes
+    -Bro Code: https://www.youtube.com/@BroCodez
+
+  Doccumentation:
+    Lesson 1 what is python and python norms:
+      -pep 8 python style guide: https://peps.python.org/pep-0008/
+    Lesson 2 types, collections, and operators:
+      -python list comprehensions: https://www.w3schools.com/python/python_lists_comprehension.asp
+
+
