@@ -1,4 +1,3 @@
-
 import math
 
 
@@ -29,7 +28,7 @@ class Quadratic_solver:
         b = int(nums[1])
         a = int(nums[0])
 
-        return ((-b-math.sqrt((b*b)-4*(a*c)))/(2*a))
+        return (-b - math.sqrt((b * b) - 4 * (a * c))) / (2 * a)
 
     @classmethod
     def plus_case(self, nums):
@@ -37,15 +36,13 @@ class Quadratic_solver:
         b = int(nums[1])
         a = int(nums[0])
 
-        return ((-b+math.sqrt((b*b)-4*(a*c)))/(2*a))
+        return (-b + math.sqrt((b * b) - 4 * (a * c))) / (2 * a)
 
     @classmethod
     def solve_quadratic(self, nums):
-        answers = [
-            self.minus_case(nums),
-            self.plus_case(nums)
-        ]
+        answers = [self.minus_case(nums), self.plus_case(nums)]
         return answers
+
 
 # below is a common python practice
 # it is an if statement that checks the name of the module calling it

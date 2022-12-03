@@ -42,5 +42,3 @@ recommended IDEs for python developement
       -pep 8 python style guide: https://peps.python.org/pep-0008/
     Lesson 2 types, collections, and operators:
       -python list comprehensions: https://www.w3schools.com/python/python_lists_comprehension.asp
-
-
