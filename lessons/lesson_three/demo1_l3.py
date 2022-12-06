@@ -1,10 +1,11 @@
 import math
+
+
 class Our_school:
-    
-    def __init__(self, name:str, population:int, avg_gpa:float):
+    def __init__(self, name: str, population: int, avg_gpa: float):
         self.name = name
         self.population = population
-        if avg_gpa>3.0:
+        if avg_gpa > 3.0:
             self.is_good_school = True
         else:
             self.is_good_school = False
