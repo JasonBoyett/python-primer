@@ -1,6 +1,7 @@
 from kivy.app import App
 from kivy.uix.label import Label
-#from package.file import class (optional) as new name
+# imports tend to follow this pattern
+# from package.file import class (optional) as new_name
 
 
 class MyApp(App):
@@ -9,4 +10,4 @@ class MyApp(App):
 
 
 if __name__ == "__main__":
-    MyApp().run() 
+    MyApp().run()
